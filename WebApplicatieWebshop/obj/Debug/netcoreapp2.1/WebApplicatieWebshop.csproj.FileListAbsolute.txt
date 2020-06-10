@@ -1,0 +1,14 @@
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\bin\Debug\netcoreapp2.1\WebApplicatieWebshop.deps.json
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\bin\Debug\netcoreapp2.1\WebApplicatieWebshop.runtimeconfig.json
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\bin\Debug\netcoreapp2.1\WebApplicatieWebshop.runtimeconfig.dev.json
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\bin\Debug\netcoreapp2.1\WebApplicatieWebshop.dll
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\bin\Debug\netcoreapp2.1\WebApplicatieWebshop.pdb
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.csprojAssemblyReference.cache
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.csproj.CoreCompileInputs.cache
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.RazorAssemblyInfo.cache
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.RazorAssemblyInfo.cs
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.AssemblyInfoInputs.cache
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.AssemblyInfo.cs
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.RazorTargetAssemblyInfo.cache
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.dll
+C:\Users\Berkay Simsek\source\repos\WpfWebshop\WebApplicatieWebshop\obj\Debug\netcoreapp2.1\WebApplicatieWebshop.pdb
